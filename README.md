@@ -2,7 +2,7 @@
 
 Email : harishramasamy21@gmail.com  
 Phone: +916360729394  
-[Github]() | [linkedIn]()
+[Github](https://github.com/harish2105) | [Linkedin](https://www.linkedin.com/in/harish-ramasamy-3296801b1/)
 
 ## ABOUT ME:
 
@@ -58,5 +58,8 @@ Karnataka State Board-80.8%
 ## Area of Interest:
 1. Machine Learning.
 2. Internet surffing.
+
+## PROJECT
+[solar based smart inverter](https://harish2105.github.io/Project/)
 
 
