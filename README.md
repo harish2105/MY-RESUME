@@ -29,10 +29,13 @@ Karnataka State Board-80.8%
 
 ## SKILLS:
 
-**Programing language:**  
-> 1. Python  
-> 2. HTML and CSS  
-> 3. Basics of Java  
+**Technical skills:**  
+> 1. Programming language : Python, Basic of java Programming, Html(Hyper Text -Markup Language) and CSS(cascading style sheets)
+> 2. Basic knowledge about computer networks
+> 3. outline knowledge on computer hardware
+> 4. Good working knowledge on Microsoft word and Microsoft Power Point.
+> 5. Few basic knowledge about Github and visual studio.
+> 6. working knowlege on Autocad(Autodesk's computer-aided design).  
 	
 **Personal skills:**  
 > 1. Excellent Communication skills in verbal and writting.  
